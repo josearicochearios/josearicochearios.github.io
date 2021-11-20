@@ -1,7 +1,7 @@
 {
-  "name": "tomala",
-  "short_name": "tomala",
-  "theme_color": "#1976d2",
+  "name": "Practica-Angular",
+  "short_name": "Practica-Angular",
+  "theme_color": "#00FFCC",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
